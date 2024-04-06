@@ -1,2 +1,2 @@
-# llmops
-llmops 개발 프로젝트
+### mlflow 실행
+mlflow ui
